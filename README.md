@@ -1,0 +1,2 @@
+# discuss
+SpotBugs mailing list
