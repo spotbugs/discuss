@@ -1,5 +1,1 @@
-# SpotBugs mailing list
-
-This is a general discussion repository for SpotBugs project
-
-"Watch" this repository to subscribe, "unwatch" to unsubscribe.
+We've migrated this repo's responsibility to [GitHub Discussions](https://docs.github.com/en/discussions) in each repo.
